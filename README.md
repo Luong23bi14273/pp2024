@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Luong ICT1 
+* Student Name: DANG DUC LUONG 
 * Student ID: 23BI14273
 
